@@ -1,4 +1,3 @@
 category: X11
-requires: cygwin libX11 libXext recordproto
-sdesc: "Xorg XTest library (development)"
+sdesc: "Xorg XTest library (documentation)"
 ldesc: "Xorg XTest library"
