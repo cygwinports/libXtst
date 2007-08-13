@@ -1,0 +1,5 @@
+category: X11
+requires: cygwin libXtst6 libX11-devel libXext-devel recordproto
+external-source: libXtst
+sdesc: "Xorg XTest library (development)"
+ldesc: "Xorg XTest library"
