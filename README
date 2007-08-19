@@ -34,26 +34,26 @@ Canonical download:
 -------------------------------------------
 
 Build instructions:
-  unpack libXtst-1.0.2-X-src.tar.bz2
+  unpack libXtst-1.0.3-X-src.tar.bz2
     if you use setup to install this src package, it will be
 	 unpacked under /usr/src automatically
   cd /usr/src
-  cygport ./libXtst-1.0.2-X.cygport all
+  cygport ./libXtst-1.0.3-X.cygport all
 
 This will create:
-  /usr/src/libXtst-1.0.2-X-src.tar.bz2
-  /usr/src/libXtst-1.0.2-X.tar.bz2
-  /usr/src/libXtst-devel-1.0.2-X.tar.bz2
-  /usr/src/libXtst6-1.0.2-X.tar.bz2
+  /usr/src/libXtst-1.0.3-X-src.tar.bz2
+  /usr/src/libXtst-1.0.3-X.tar.bz2
+  /usr/src/libXtst-devel-1.0.3-X.tar.bz2
+  /usr/src/libXtst6-1.0.3-X.tar.bz2
 
 -------------------------------------------
 
 Files included in the binary packages:
 
 (libXtst)
-  /usr/share/doc/Cygwin/libXtst-1.0.2.README
-  /usr/share/doc/libXtst-1.0.2/COPYING
-  /usr/share/doc/libXtst-1.0.2/ChangeLog
+  /usr/share/doc/Cygwin/libXtst-1.0.3.README
+  /usr/share/doc/libXtst-1.0.3/COPYING
+  /usr/share/doc/libXtst-1.0.3/ChangeLog
   /usr/share/man/man3/XTestCompareCurrentCursorWithWindow.3.gz
   /usr/share/man/man3/XTestCompareCursorWithWindow.3.gz
   /usr/share/man/man3/XTestDiscard.3.gz
@@ -77,6 +77,9 @@ Files included in the binary packages:
 ------------------
 
 Port Notes:
+
+----- version 1.0.3-1 -----
+Version bump.
 
 ----- version 1.0.2-1 -----
 Version bump for X11R7.3.
