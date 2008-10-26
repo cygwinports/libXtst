@@ -1,5 +1,5 @@
 category: X11
 requires: cygwin libX11_6 libXext6
 external-source: libXtst
-sdesc: "Xorg XTest library (runtime)"
-ldesc: "Xorg XTest library"
+sdesc: "X.Org XTest library (runtime)"
+ldesc: "X.Org XTest library"
