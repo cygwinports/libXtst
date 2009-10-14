@@ -4,4 +4,4 @@ PKG_NAMES="${PN} ${PN}6 ${PN}-devel"
 PKG_HINTS="setup runtime devel"
 libXtst_CONTENTS=	# empty
 libXtst6_CONTENTS="usr/bin/cygXtst-6.dll usr/share/doc/"
-libXtst_devel_CONTENTS='usr/lib/ usr/share/man/'
+libXtst_devel_CONTENTS='usr/include/ usr/lib/ usr/share/man/'
