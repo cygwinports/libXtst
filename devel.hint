@@ -1,5 +1,0 @@
-category: X11
-requires: libXtst6 libX11-devel libXext-devel libXi-devel recordproto xproto xextproto
-external-source: libXtst
-sdesc: "X.Org XTest library (development)"
-ldesc: "X.Org XTest library"

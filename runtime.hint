@@ -1,5 +1,0 @@
-category: X11
-requires: libX11_6 libXext6
-external-source: libXtst
-sdesc: "X.Org XTest library (runtime)"
-ldesc: "X.Org XTest library"
