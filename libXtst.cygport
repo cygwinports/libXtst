@@ -1,12 +1,12 @@
 inherit xorg
 
 NAME="libXtst"
-VERSION=1.2.1
+VERSION=1.2.2
 RELEASE=1
 CATEGORY="X11"
 SUMMARY="X.Org XTest library"
 DESCRIPTION="X.Org XTest library"
 
-PKG_NAMES="${PN}6 ${PN}-devel"
+PKG_NAMES="${NAME}6 ${NAME}-devel"
 libXtst6_CONTENTS="usr/bin/cygXtst-6.dll usr/share/doc/"
 libXtst_devel_CONTENTS='usr/include/ usr/lib/ usr/share/man/'
