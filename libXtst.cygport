@@ -1,9 +1,9 @@
 inherit xorg
 
 NAME="libXtst"
-VERSION=1.2.2
+VERSION=1.2.3
 RELEASE=1
-CATEGORY="X11"
+CATEGORY="Libs"
 SUMMARY="X.Org XTest library"
 DESCRIPTION="X.Org XTest library"
 
